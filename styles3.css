@@ -1,0 +1,123 @@
+.header {
+  height: 39px;
+  width: 100%;
+  background-color: rgb(34, 36, 37);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+.icon {
+  background-image: url();
+  height: 40px;
+  width: 40px;
+}
+.navitem {
+  color: rgb(215, 207, 207);
+  text-decoration: none;
+  font-size: 15px;
+}
+.side {
+  height: 450px;
+  width: 100%;
+  background-color: black;
+}
+.same {
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-size: 60px;
+  padding: 15px;
+}
+.demon {
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+}
+.him {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 264px;
+}
+.more {
+  height: 38px;
+  width: 110px;
+  background-color: rgb(32, 32, 243);
+  border-radius: 340px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.in {
+  color: white;
+  text-decoration: none;
+}
+.kalessi {
+  height: 38px;
+  width: 110px;
+  background-color: rgb(32, 32, 243);
+  border-radius: 340px;
+}
+.bigshow {
+  height: 200px;
+  width: 100%;
+  color: aqua;
+}
+.banner {
+  height: 490px;
+  width: 100%;
+  background-image: url(https://www.apple.com/v/home/bs/images/heroes/iphone-16-pro/hero_iphone16pro_avail__fnf0f9x70jiy_mediumtall.jpg);
+  background-size: cover;
+  background-position: 10px;
+}
+
+.top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 20px;
+  color: white;
+}
+
+.bottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 230px;
+}
+.hell {
+  background-color: rgb(35, 116, 230);
+  color: white;
+  border-radius: 340px;
+  font-size: 20px;
+}
+.hall {
+  background-color: black;
+  color: rgb(43, 119, 232);
+  border-radius: 340px;
+  font-size: 20px;
+}
+.tex {
+  color: rgb(203, 193, 193);
+}
+.big {
+}
+.dumb {
+  height: 540px;
+  width: 100%;
+  background: linear-gradient(rgb(27, 21, 142), white);
+  background-image: url(https://www.apple.com/v/home/bs/images/heroes/iphone-16/hero_iphone16_avail__euwzls69btea_medium.jpg);
+  background-size: cover;
+}
+.day {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pro {
+  color: white;
+}
